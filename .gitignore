@@ -1,0 +1,12 @@
+obj/
+*.suo
+*.user
+*.sln.docstates
+*.vsp
+*.psess
+_ReSharper*
+[Ee]xpress
+[Bb]in
+[Oo]bj
+*.[Cc]ache
+stylecop.*
